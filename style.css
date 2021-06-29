@@ -1,0 +1,172 @@
+
+    html {
+        box-sizing: border-box;
+        background-color: #ffffff;
+        font-family: 'Open Sans', 'Helvetica', sans-serif;
+    }
+
+    body {
+        margin: 0 auto;
+        padding: 0 auto;
+    }
+    
+    main {
+        padding-left: 10px;
+    }
+    
+    
+    .navigation ul {
+        text-align: center;
+        font-weight: 600;
+        margin: 10px 0;
+    }
+    .navigation ul li{
+        display: inline-block;
+        margin: 10px 60px;
+    }
+    
+    
+    
+    ul a {
+        color: black;
+        font-weight: 500;
+        letter-spacing: 1px;
+    }
+    ul a:link {
+        text-decoration: none;
+    }
+    
+    h1 {
+        font-size: 150px;
+    }
+    
+    h2 {
+        font-family: 'Castoro', serif;
+        font-weight: 200;
+        border-bottom: 1px solid black;
+        padding-bottom: 5px;
+        text-transform: capitalize;
+        width: 200px;
+        letter-spacing: 1px;
+    }
+    
+    h3 {
+        font-size: 20px;
+        font-weight: normal;
+        text-decoration: underline;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    
+    .subsection {
+        margin: 100px 0;
+    }
+    
+    .subsection div {
+        margin: 100px 50px;
+        display: inline-block;
+    }
+    
+    .middle-section {
+        margin: 80px 0;
+        text-align: center;
+    }
+
+    #middle-section div{
+        position: relative;
+        display: inline-block;
+        margin: 100px 30px;
+    }
+     /* first font edit */
+    .font1 {
+        font-family: 'Open Sans', sans-serif;
+    }
+    .font1 p {
+        font-size: 18px;
+        letter-spacing: 2px;
+    }
+    
+    .font1 p:nth-of-type(1) {
+        font-weight: normal;
+    }
+    
+    .font1 p:nth-of-type(2) {
+        font-style: italic;
+    }
+    .font1 p:nth-of-type(3) {
+        font-weight: 700;
+    }
+    
+    /* second font edit */
+    .font2 {
+        font-family: 'Castoro', serif;
+    }
+    .font2 p {
+        font-size: 18px;
+        letter-spacing: 2px;
+    }
+    
+    .font2 p:nth-of-type(1) {
+        font-weight: normal;
+    }
+    
+    .font2 p:nth-of-type(2) {
+        font-style: italic;
+    }
+    
+    /* third font edit */
+    .font3 {
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .font3 p {
+        font-size: 18px;
+        letter-spacing: 2px;
+    }
+    
+    .font3 p:nth-of-type(1) {
+        font-weight: 200;
+    }
+    
+    .font3 p:nth-of-type(2) {
+        font-weight: 400;
+    }
+    .font3 p:nth-of-type(3) {
+        font-weight: 700;
+    }
+    
+    .bottom-div-adjusting {
+        margin: 60px 0;
+    }
+    
+    .bottom-div-adjusting h1 {
+        font-size: 32px;
+    }
+    
+    .bottom-div-adjusting h2 {
+        font-family: 'Castoro', serif;
+        font-size: 24px;
+        border: none;
+    }
+    .bottom-div-adjusting h3 {
+        font-size: 19px;
+        text-decoration: none;
+        font-family: 'Oswald', sans-serif;
+    }
+    .bottom-div-adjusting p {
+        font-size: 14px;
+        border: none;
+    }
+    
+    .bottom-div-adjusting div {
+       position: relative;
+       display: inline-block;
+       margin: 100px 60px;
+    }
+    
+    #footer {
+        text-align: center;
+        font-size: 12px;
+        color: dimgray;
+    }
+

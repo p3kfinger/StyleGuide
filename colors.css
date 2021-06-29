@@ -1,0 +1,251 @@
+/* COLOR1 */
+
+.color1 {
+    background-color: dimgray;
+    color: white;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+/* pop up on hover */
+  
+  .popup1 {
+      font-size: 12px;
+  }
+
+  .color1 .popup1 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(65, 65, 65);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    opacity: 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .color1:hover .popup1 {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+  /* end of pop up */
+  /* end of COLOR2 */
+
+
+
+  /* COLOR2 */
+  .color2 {
+    background-color: #FFE4E1;
+    color: white;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+/* pop up on hover */
+  
+  .popup2 {
+      font-size: 12px;
+  }
+
+  .color2 .popup2 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(65, 65, 65);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    opacity: 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .color2:hover .popup2 {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+  /* end of pop up */
+  /* end of COLOR2 */
+
+   /* COLOR3 */
+   .color3 {
+    background-color: #DC143C;
+    color: white;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+
+/* pop up on hover */
+  
+  .popup3 {
+      font-size: 12px;
+  }
+
+  .color3 .popup3 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(65, 65, 65);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    opacity: 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .color3:hover .popup3 {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+  /* end of pop up */
+  /* end of COLOR3 */
+
+  /* COLOR4 */
+  .color4 {
+    background-color: #F0E68C;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+
+/* pop up on hover */
+  
+  .popup4 {
+      font-size: 12px;
+  }
+
+  .color4 .popup4 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(65, 65, 65);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    opacity: 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .color4:hover .popup4 {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+  /* end of pop up */
+  /* end of COLOR4 */
+
+  /* COLOR5 */
+  .color5 {
+    background-color: #00CED1;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+
+/* pop up on hover */
+  
+  .popup5 {
+      font-size: 12px;
+  }
+
+  .color5 .popup5 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(65, 65, 65);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    opacity: 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .color5:hover .popup5 {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+  /* end of pop up */
+  /* end of COLOR5 */
+
+   /* COLOR6 */
+   .color6 {
+    background-color: #32CD32;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+/* pop up on hover */
+  
+  .popup6 {
+      font-size: 12px;
+  }
+
+  .color6 .popup6 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(65, 65, 65);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    opacity: 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .color6:hover .popup6 {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+  /* end of pop up */
+  /* end of COLOR6 */
